@@ -1,0 +1,36 @@
+
+
+#container{
+	font-family: 'Roboto', sans-serif;
+	width:500px;
+	margin:0 auto;
+}
+.submit{
+	    height: 43px;
+    width: 90px;
+    position: relative;
+    left: 90px;
+
+}
+input{
+	height: 40px;
+    width: 276px;
+    border-radius: 9px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    border: 1px solid #ACACAC;
+    margin-top: 10px
+}
+label{
+	width: 59px;
+    float: left;
+    margin: 18px 102px 0px 0px;
+}
+.clear{
+	clear:both;
+}
+#error{
+	    color: red;
+    	padding-left: 162px;
+}
